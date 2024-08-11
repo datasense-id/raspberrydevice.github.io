@@ -1,5 +1,5 @@
 # RaspberryDevice.com
-Raspberry Device - Domain Sharing
+Raspberry Device - Free Domain Sharing
 
 > [!NOTE]
-> Hit Star if you like our project
+> Hit Star and share so others can benefit from this free stuff.
